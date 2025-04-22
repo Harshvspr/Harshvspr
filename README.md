@@ -1,5 +1,7 @@
-<h1 align="center">Hi 👋, I'm Harsh Vardhan Singh</h1>
+
+ <h1 align="center">Hi 👋, I'm Harsh Vardhan Singh</h1>
 <h3 align="center">Aspiring Data Analyst | Python | SQL | Power BI | Excel | Visualization</h3>
+<img align="right" alt="Data Analyst" width="400" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExODd1am8xNTN0aTg2bm8wdXh5YXBsNno1bTFqdHE5ZWxzMHM1MHV1dSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/qgQUggAC3Pfv687qPC/200.webp">
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=harshvspr" alt="harshvspr" /></a> </p>
 
